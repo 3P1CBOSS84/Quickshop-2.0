@@ -52,7 +52,7 @@ namespace QuickShop
                     UIManager.Get().ShowPopup("QuickShop Mod:", "Part cost: " + Helper.MoneyToString((float)price), PopupType.Buy);
                 }
             }
-
+            // Add a key that purchases tuned parts.
             if (Input.GetKeyUp(KeyCode.N))
             {
                 GameScript.Get().GetSelectedPartToMount();
