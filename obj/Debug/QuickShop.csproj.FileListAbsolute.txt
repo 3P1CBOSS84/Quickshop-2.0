@@ -1,0 +1,15 @@
+C:\Users\Michael\Desktop\QuickShop-master\obj\Debug\QuickShop.csproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\QuickShop-master\obj\Debug\QuickShop.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\QuickShop-master\bin\Debug\Info.json
+C:\Users\Michael\Desktop\QuickShop-master\bin\Debug\QuickShop.dll
+C:\Users\Michael\Desktop\QuickShop-master\bin\Debug\QuickShop.pdb
+C:\Users\Michael\Desktop\QuickShop-master\bin\Debug\0Harmony12.dll
+C:\Users\Michael\Desktop\QuickShop-master\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Michael\Desktop\QuickShop-master\bin\Debug\Assembly-CSharp.dll
+C:\Users\Michael\Desktop\QuickShop-master\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Michael\Desktop\QuickShop-master\bin\Debug\UnityEngine.dll
+C:\Users\Michael\Desktop\QuickShop-master\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Michael\Desktop\QuickShop-master\bin\Debug\UnityEngine.UI.dll
+C:\Users\Michael\Desktop\QuickShop-master\bin\Debug\UnityModManager.dll
+C:\Users\Michael\Desktop\QuickShop-master\obj\Debug\QuickShop.dll
+C:\Users\Michael\Desktop\QuickShop-master\obj\Debug\QuickShop.pdb
