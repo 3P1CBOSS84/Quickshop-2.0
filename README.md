@@ -1,2 +1,2 @@
 # Quickshop-2.0
-Expands upon the origina; Quickshop for CMS2018
+Expands upon the original Quickshop for CMS2018
