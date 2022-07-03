@@ -47,7 +47,7 @@ namespace QuickShop
                     Main.mod.Logger.Log(idwithTuned);
                     Inventory.Get().Add(idwithTuned, 1f, Color.black, true, true);
                     new NewInventoryItem(idwithTuned, true).Condition = 1f;
-                    int price = Singleton<GameInventory>.Instance.GetItemProperty(idwithTuned).Price;
+                    int price = (int)(Singleton<GameInventory>.Instance.GetItemProperty(idwithTuned).Price * Singleton<UpgradeSystem>.Instance.GetUpgradeValue("shop_discount"));
                     GlobalData.AddPlayerMoney(-price);
                     UIManager.Get().ShowPopup("QuickShop Mod:", "Part cost: " + Helper.MoneyToString((float)price), PopupType.Buy);
                 }
@@ -64,7 +64,7 @@ namespace QuickShop
                     Main.mod.Logger.Log(idwithTuned2);
                     Inventory.Get().Add(idwithTuned2, 1f, Color.black, true, true);
                     new NewInventoryItem(idwithTuned2, true).Condition = 1f;
-                    int price = Singleton<GameInventory>.Instance.GetItemProperty(idwithTuned2).Price;
+                    int price = (int)(Singleton<GameInventory>.Instance.GetItemProperty(idwithTuned2).Price * Singleton<UpgradeSystem>.Instance.GetUpgradeValue("shop_discount"));
                     GlobalData.AddPlayerMoney(-price);
                     UIManager.Get().ShowPopup("QuickShop Mod:", "Part cost: " + Helper.MoneyToString((float)price), PopupType.Buy);
                 }
