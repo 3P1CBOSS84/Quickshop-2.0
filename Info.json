@@ -1,5 +1,7 @@
 {
   "Id": "QuickShop",
-  "Version": "2.0.0",
+  "DisplayName": "QuickShop",
+  "Version": "2.0.2",
+  "AssemblyName": "QuickShop.dll",
   "EntryMethod": "QuickShop.Main.Load"
 }
